@@ -1,75 +1,61 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# ![](https://img.shields.io/badge/Microverse-blueviolet) Hello react-rails
+> ** This is a React Rails project
 
-# Project Name
-
-> Description the project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby on Rails
+- Ruby
 
-## Live Demo (if available)
+## Prerequisites
 
-[Live Demo Link](https://livedemo.com)
+- Ruby
+- Ruby on Rails
+- PostgreSQL
 
+## Install
+
+- Ruby
+- Ruby on Rails(as a gem)
+- Postgresql database
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy of the app, run the following commands in your terminal:
+- `git clone https://github.com/Stanleeeeee/Hello-rails-react.git`
+- `cd /hello-rails-react`
+- `bundle install`
 
+Run the following commands to run the app
 
-To get a local copy up and running follow these simple example steps.
+- `rails db:create`
+- `rails db:migrate`
+- `rails s`
 
-### Prerequisites
+In your browser, go to
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- `http://localhost:3000`
 
 
 ## Authors
 
-👤 **Author1**
+👤   **Exeoke Stanley Ifeanyi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: https://github.com/Stanleeeeee
+- Twitter: https://twitter.com/@Stanmega89
+- LinkedIn: https://www.linkedin.com/in/stanley-ezeoke
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/aimalamiri/Ruby-Catalog/issues).
 
-## Show your support
+# Acknowledgement
 
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
+- Hat tip to anyone whose code was a source of inspiration.
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://github.com/medsonmoombe/Budget-App-rails/blob/dev/LICENSE) licensed
